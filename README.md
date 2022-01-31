@@ -5,7 +5,7 @@ I'm from Brazil and living in São Paulo-SP.
 
 I love to learn about Cloud, Problem Solving and Software Architecture.
 
-[![Linkedin Badge](https://img.shields.io/badge/-rafael-ferreirablue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rasilfe/)](https://www.linkedin.com/in/rasilfe/)
+[![Linkedin Badge](https://img.shields.io/badge/-rasilfeblue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rasilfe/)](https://www.linkedin.com/in/rasilfe/)
 [![Gmail Badge](https://img.shields.io/badge/-rafael.ferreira2688@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafael.ferreira2688@gmail.com)](mailto:rafael.ferreira2688@gmail.com)
 
 ## ⚡ Technologies
@@ -20,9 +20,7 @@ These are the technologies I've already work or still working in my job:
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
+
 
 ## 🌱 I’m currently learning
 
