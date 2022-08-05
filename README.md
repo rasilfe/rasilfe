@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Rafael Ferreira, I'm Software Engineer at Itaú-Unibanco and I work coding every day since 2015.
+My name is Rafael Ferreira, I'm Software Engineer at Capsule Corp and I work coding every day since 2015.
 I'm from Brazil and living in São Paulo-SP.
 
 I love to learn about Cloud, Problem Solving and Software Architecture.
