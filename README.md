@@ -8,7 +8,7 @@ I love to learn about Cloud, Problem Solving and Software Architecture.
 I am always open to collaborating on projects and innovative ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-rasilfe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rasilfe/)](https://www.linkedin.com/in/rasilfe/)
-[![Gmail Badge](https://img.shields.io/badge/-rafael.ferreira2688@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafael.ferreira2688@gmail.com)](mailto:rafael.ferreira2688@gmail.com)
+[![Proton Badge](https://img.shields.io/badge/-rasilfe@proton.me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rasilfe@proton.me)](mailto:rasilfe@proton.me)
 
 ## ⚡ Technologies
 
